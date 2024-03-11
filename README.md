@@ -1,17 +1,21 @@
-Hi there! I'm Nicky Ong 👋
+## 🙋🏻‍♂️ Hello, I'm Nicky Ong!
 
-🌐 Location: Seattle, WA
+My journey into data analytics ignited with Spotify Wrapped – a revelation of how music preferences could unfold intricate stories about personality and lifestyle. This epiphany, merging my love for puzzles and discovery, propelled me to uncover meaningful insights and trends through data.
 
-🎓 Education: Currently pursuing a Master of Science in Business Analytics at the University of Washington, with a strong foundation in Business Administration from The Ohio State University.
+Currently, I'm enriching my expertise with a Master's Degree in Business Analytics at the University of Washington. Beyond numbers and charts, you'll find me relishing a game of tennis, embarking on spontaneous road trips, or setting new personal bests in the gym. My pursuit is a blend of analytical rigor and a zest for life's varied experiences.
 
-📊 Profession: Data Analyst with over 3 years of experience at NielsenIQ in Malaysia, where I've honed my skills in data analysis, sales strategy, and predictive modeling.
+### 🛠️ Tools
 
-🛠 Skills: Proficient in Python, SQL, R, and various data visualization tools. My technical toolkit includes libraries like Scikit-learn, PyTorch, Matplotlib, Seaborn, Plotly, Pandas, NumPy, NLTK, and Beautiful Soup.
+- **Programming:** Python (NumPy, Pandas, Scikit-learn, NLTK, PyTorch), R, SQL
+- **Visualization & Statistical Software:** Tableau, Data Visualization, Machine Learning
+- **Machine Learning:** Regressions, Random Forest, SVM, XGBoost, Unsupervised Learning, Deep Learning
 
-💡 Projects: I've worked on diverse projects like hotel reservation cancellation prediction, diamond price prediction, and sports analytics, focusing on accuracy, efficiency, and actionable insights.
+### 📚 Projects
 
-📈 Passion: I'm passionate about translating complex data into strategic business decisions and actionable insights. My work has enabled significant cost savings and process improvements in sales data analysis.
+Discover my diverse projects like hotel reservation cancellation prediction, diamond price prediction, and sports analytics in my [portfolio](Your-Portfolio-Link).
 
-🔍 Looking Forward: Eager to explore the intersection of data analytics and machine learning in business contexts. I'm continuously learning and seeking to collaborate on innovative projects and ideas.
+### 👋🏻 Connect with Me
 
-👥 Let's Connect! Feel free to browse my repositories and connect with me on LinkedIn
+Let's connect on [LinkedIn](https://www.linkedin.com/in/nicky-ong/) and explore collaborations and new opportunities.
+
+

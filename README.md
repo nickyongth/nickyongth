@@ -1,4 +1,4 @@
-## 🙋🏻‍♂️ Hello, I'm Nicky Ong!
+## 🙋🏻‍♂️ Hello, I'm Nicky Ong
 
 My journey into data analytics ignited with Spotify Wrapped – a revelation of how music preferences could unfold intricate stories about personality and lifestyle. This epiphany, merging my love for puzzles and discovery, propelled me to uncover meaningful insights and trends through data.
 

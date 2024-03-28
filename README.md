@@ -12,7 +12,7 @@ Currently, I'm enriching my expertise with a Master's Degree in Business Analyti
 
 ### 📚 Projects
 
-Discover my diverse projects like hotel reservation cancellation prediction, diamond price prediction, and sports analytics in my [portfolio](Your-Portfolio-Link).
+Discover my diverse projects like hotel reservation cancellation prediction, diamond price prediction, and sports analytics in my [portfolio](https://github.com/nickyongth/Portfolio/tree/main).
 
 ### 👋🏻 Connect with Me
 

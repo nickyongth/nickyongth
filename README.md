@@ -7,7 +7,7 @@ Currently, I'm enriching my expertise with a Master's Degree in Business Analyti
 ### 🛠️ Tools
 
 - **Programming:** Python (NumPy, Pandas, Scikit-learn, NLTK, PyTorch), R, SQL
-- **Visualization & Statistical Software:** Tableau, Data Visualization, Machine Learning
+- **Visualization & Statistical Software:** Tableau, Power BI, R, Python (Matplotlib, Seaborn, Plotly)
 - **Machine Learning:** Regressions, Random Forest, SVM, XGBoost, Unsupervised Learning, Deep Learning
 
 ### 📚 Projects

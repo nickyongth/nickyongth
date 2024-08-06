@@ -1,8 +1,10 @@
 ## 🙋🏻‍♂️ Hello, I'm Nicky Ong
 
-My journey into data analytics ignited with Spotify Wrapped – a revelation of how music preferences could unfold intricate stories about personality and lifestyle. This epiphany, merging my love for puzzles and discovery, propelled me to uncover meaningful insights and trends through data.
+I am Nicky Ong, a passionate and experienced data enthusiast with a strong foundation in data analytics, machine learning, and business intelligence. With a Master's degree in Business Analytics from the University of Washington and five years of professional experience, I specialize in transforming complex data into actionable insights that drive strategic decision-making.
 
-Currently, I'm enriching my expertise with a Master's Degree in Business Analytics at the University of Washington. Beyond numbers and charts, you'll find me relishing a game of tennis, embarking on spontaneous road trips, or setting new personal bests in the gym. My pursuit is a blend of analytical rigor and a zest for life's varied experiences.
+Throughout my career, I have successfully engineered data pipelines, developed predictive models, and created intuitive dashboards that empower stakeholders to make informed decisions. My proficiency in SQL, Python, and R enables me to handle large datasets and perform sophisticated analyses with precision.
+
+Whether it's optimizing marketing strategies, identifying business opportunities, or improving operational efficiency, I am dedicated to leveraging data to deliver impactful results. By continually refining my skills and staying abreast of industry trends, I strive to contribute meaningful insights that drive business success.
 
 ### 🛠️ Tools
 
